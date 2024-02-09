@@ -762,3 +762,6 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+
+## My notes
+Will delete the additional branch manually... an error was made at the initial stages
